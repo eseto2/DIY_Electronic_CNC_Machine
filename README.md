@@ -1,4 +1,4 @@
-# 3D printed
+# Introduction to DIY 3D Printed CNC Machine
 Yes, 3D printed parts are definitely strong enough for such a CNC machine. I use 3 perimeters and 40% infill to print those parts out of PLA, PETG is also a good choice. Above you can find STL files and STEP files in case you want to modify something.
 You can also buy the fully printed and assembled 3D printed CNC machine if you email me @ eovuede97@gmail.com.
 
@@ -16,3 +16,8 @@ You can also buy the fully printed and assembled 3D printed CNC machine if you e
 | [Y axis nut holder right](Y%20axis%20nut%20holder%20right.stl) | ![Y axis nut holder right](Docs/Diagrams/Y%20axis%20nut%20holder%20right.jpg) | 1
 | [Z axis bearing holder](Z%20axis%20bearing%20holder.stl) | ![Z axis bearing holder](Docs/Diagrams/Z%20axis%20bearing%20holder.jpg) | 1
 | [Z axis nut holder](Z%20axis%20nut%20holder.stl) | ![Z axis nut holder](Docs/Diagrams/Z%20axis%20nut%20holder.jpg) | 1
+
+
+## Videos
+
+[![IndyMill Final test](Video.mp4)]
