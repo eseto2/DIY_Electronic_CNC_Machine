@@ -20,4 +20,4 @@ You can also buy the fully printed and assembled 3D printed CNC machine if you e
 
 ## Videos
 
-[![IndyMill Final test](Video.mp4)]
+[![3D CNC Final test](Video.mp4)]
