@@ -1,6 +1,6 @@
 # 3D printed
 Yes, 3D printed parts are definitely strong enough for such a CNC machine. I use 3 perimeters and 40% infill to print those parts out of PLA, PETG is also a good choice. Above you can find STL files and STEP files in case you want to modify something.
-You can also buy 3D printed parts in my [store](https://indystry.cc/store/).
+You can also buy the fully printed and assembled 3D printed CNC machine if you email me @ eovuede97@gmail.com.
 
 
 | Part | What it looks like | Amount needed |
